@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
   <img src="./RM_LOGO.png" alt="RangManch Logo" width="150" height="150" />
   <h1>RangManch: India's Direct-to-Artisan Marketplace</h1>
